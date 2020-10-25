@@ -1,0 +1,16 @@
+<annotation>
+	<size>
+		<width>640</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>traffic_sign</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>182</ymin>
+			<xmax>9</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	<extra>Unspecified</extra></object>
+	</annotation>
